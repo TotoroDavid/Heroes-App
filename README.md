@@ -2,4 +2,4 @@
 
 see the project in the next link below
 
-<link src="https://heroes-appication.netlify.app">
+<link rel="stylesheet" href="https://heroes-appication.netlify.app" />
